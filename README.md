@@ -4,8 +4,6 @@
 
 # WbleMobile
 
-**WbleMobile** is a mobile application developed as a replica of the UTAR WBLE platform. It aims to reproduce the core functionalities of the existing WBLE system while enhancing accessibility and usability on mobile devices. Unlike the traditional WBLE website currently in use at UTAR, WbleMobile offers a modern, intuitive, and user-friendly interface tailored specifically for mobile users.
-
 This project is a comprehensive full-stack mobile application that integrates multiple components to provide a seamless user experience. Built using **React Native** for the frontend, **Laravel** and **Flask** for the backend services, and incorporating real-time communication capabilities, WbleMobile ensures that users can interact with the platform efficiently and in real-time.
 
 The application supports multiple user roles, including **admins**, **lecturers**, and **students**, each with access to distinct features and interfaces. The role-based access control ensures that users only see and interact with content relevant to their responsibilities, improving usability and security.
